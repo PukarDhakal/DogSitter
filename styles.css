@@ -1,0 +1,154 @@
+.Desktop {
+    width: 45rem;
+    height: 47.813rem;
+    padding: 0.031rem 0 3.156rem;
+  }
+
+  .Rectangle-2 {
+    width: 45rem;
+    height: 18.75rem;
+    margin: 0 0 1.688rem;
+    padding: 5.531rem 19.781rem 6.75rem 6.844rem;
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0), #000 35%);
+    background-image: url("C:/Users/pukar/Downloads/DevTest-master/DevTest-master/assets/main-banner.png");
+
+  }
+
+
+  .Need-a-dog-sitter{ 
+    width: 12.563rem;
+    height: 1.75rem;
+    margin: 0 5.813rem 0.313rem 0;
+    font-family: Quicksand;
+    font-size: 1.406rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(white);
+  }
+
+  .Need-a-dog-sitter {
+    width: 12.563rem;
+    height: 1.75rem;
+    margin: 0 5.813rem 0.313rem 0;
+    font-family: Quicksand;
+    font-size: 1.406rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(white);
+  }
+
+  .Find-a-trusted-sitter {
+    width: 18.25rem;
+    height: 2.125rem;
+    margin: 0.313rem 0 0.781rem 0.125rem;
+    font-family: Quicksand;
+    font-size: 0.75rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    color: var(--white);
+  }  
+
+  img.Group-2 {
+    width: 45rem;
+    height: 2.125rem;
+    margin: 17.375rem 0 0.938rem;
+    object-fit: contain;
+  }
+
+  .Our-Services {
+    width: 8.594rem;
+    height: 1.75rem;
+    margin: 0.938rem 2.563rem 0.313rem 2.594rem;
+    font-family: Quicksand;
+    font-size: 1.406rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #36413c;
+  }
+ 
+  .Local-trusted-pet {
+    width: 21.531rem;
+    height: 3.188rem;
+    margin: 0.313rem 11.719rem 2.188rem 11.75rem;
+    font-family: Quicksand;
+    font-size: 0.75rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--gunmetal);
+  }
+ 
+  .Mask {
+    width: 11.875rem;
+    height: 16.75rem;
+    margin: 2.188rem 0.938rem 0 3.75rem;
+    padding: 0 0 0.844rem;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+    background-color: var(--white);
+  }
+
+
+
+  .Got-a-bit-more-on-th {
+    width: 10.313rem;
+    height: 4.063rem;
+    margin: 0.313rem 0.781rem 0.625rem;
+    font-family: Quicksand;
+    font-size: 0.563rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    color: var(--gunmetal);
+  }
+  .fredrik-ohlander-520696-unsplash {
+    width: 11.875rem;
+    height: 8.313rem;
+    margin: 0 0 0.781rem;
+  }
+
+ 
+  .Mask2 {
+    width: 11.875rem;
+    height: 16.75rem;
+    margin: 2.188rem 0.938rem 0;
+    padding: 0 0 0.844rem;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+    background-color: var(--white);
+  }
+  .Instead-of-going-to {
+    width: 10.313rem;
+    height: 4.063rem;
+    margin: 0.313rem 0.781rem 0.625rem;
+    font-family: Quicksand;
+    font-size: 0.563rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    color: var(--gunmetal);
+  }
+  .mysaell-armendariz-559174-unsplash {
+    width: 11.875rem;
+    height: 8.313rem;
+    margin: 0 0 0.781rem;
+  }
